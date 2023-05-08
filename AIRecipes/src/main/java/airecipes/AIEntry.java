@@ -67,7 +67,7 @@ public class AIEntry extends javax.swing.JDialog {
 
         jLabel2.setText("API Key:");
 
-        aiKey.setText("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");
+        aiKey.setText("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");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
