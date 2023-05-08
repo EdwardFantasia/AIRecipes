@@ -90,7 +90,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="aiKey">
       <Properties>
-        <Property name="text" type="java.lang.String" value="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"/>
+        <Property name="text" type="java.lang.String" value="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"/>
       </Properties>
     </Component>
   </SubComponents>
